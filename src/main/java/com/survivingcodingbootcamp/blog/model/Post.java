@@ -32,6 +32,7 @@ public class Post {
         this.hashtags = Arrays.asList(hashtags);
     }
 
+
     public Long getId() {
         return id;
     }
